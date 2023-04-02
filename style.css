@@ -101,13 +101,21 @@ p{
     border: dotted grey 6px; 
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 200px auto 100px auto;
+}
+
+.contact-me{
+    padding: 50px 0 0 0;
 }
 
 .contact{
     width: 40%;
     margin: 100px auto;
 
+}
+
+.in-touch{
+    margin-top: 0px;
 }
 
 .skills{
